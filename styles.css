@@ -1,0 +1,24 @@
+body {
+    cursor: grab;
+    color: rgb(9, 224, 240);
+background-color:slategrey
+    }
+
+     .Border {
+         border-radius: 40%;
+         object-position: center
+     }
+     .Center {
+         text-align: center;
+         border: 3px chocolate;
+     }
+     .Fancy-Font {
+         font-family:Verdana, Geneva, Tahoma, sans-serif
+     }
+    .Cursive-Font {
+        font-family:monospace
+    } 
+    .Border-Color {
+        border-style: dotted;
+        border-color: darkblue;
+    }
